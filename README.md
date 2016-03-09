@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Hydrodynamic simulations in large volumes
 
 Summary -- Deliver a set of simulations for large volume studies
 
